@@ -1,0 +1,12 @@
+# project files
+.idea
+.node_modules
+
+# build files
+
+
+# output files
+
+
+# Mac recovery files
+.DS_Store
